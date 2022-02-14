@@ -1,16 +1,16 @@
 {
   "name": "react-native-scratcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scratch view for react native",
   "summary": "Forked scratch view for react-native. All credit goes to its original creator",
-  "homepage": "https://github.com/eumakarov/react-native-scratcher",
+  "homepage": "https://github.com/ChelleStudio/react-native-scratcher/",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eumakarov/react-native-scratcher.git"
+    "url": "git+https://github.com/ChelleStudio/react-native-scratcher.git"
   },
   "keywords": [
     "react-native",
@@ -23,12 +23,12 @@
     "scratch-view",
     "scratch-image"
   ],
-  "author": "Roy Ben-Sasson",
+  "author": "ChelleStudio",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "0.63.4"
+    "react-native": "^0.67.1"
   },
   "bugs": {
-    "url": "https://github.com/eumakarov/react-native-scratcher/issues"
+    "url": "https://github.com/ChelleStudio/react-native-scratcher/issues"
   }
 }
